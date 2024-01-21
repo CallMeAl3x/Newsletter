@@ -6,7 +6,7 @@ Il s'agit d'une solution au [Formulaire d'inscription à la newsletter avec mess
   - [Le-challenge](#le-challenge)
   - [Screenshot](#screenshot)
   - [Liens](#Liens)
-  - [Développé avec :](#développé-avec-:)
+  - [Développé avec :](#développé-avec)
 - [Auteur](#Auteur)
 
 ## Aperçu
@@ -27,9 +27,9 @@ Il s'agit d'une solution au [Formulaire d'inscription à la newsletter avec mess
 ### Liens
 
 - Solution URL: [Reposit GitHub](https://github.com/CallMeAl3x/Newsletter)
-- Live Site URL: [Add live site URL here](https://newsletter-b-alexandre.netlify.app)
+- Live Site URL: [Site Live](https://newsletter-b-alexandre.netlify.app)
 
-### Développé avec :
+### Développé avec
 
 - HTML5
 - CSS 
