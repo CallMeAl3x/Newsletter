@@ -6,10 +6,8 @@ Il s'agit d'une solution au [Formulaire d'inscription à la newsletter avec mess
   - [Le-challenge](#le-challenge)
   - [Screenshot](#screenshot)
   - [Liens](#Liens)
-  - [Développé avec :](#Développé-avec-:)
+  - [Développé avec :](#développé-avec-:)
 - [Auteur](#Auteur)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Aperçu
 
@@ -26,13 +24,10 @@ Il s'agit d'une solution au [Formulaire d'inscription à la newsletter avec mess
 ![Desktop](./preview1.png)
 ![Mobile](./preview2.png)
 
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Liens
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Reposit GitHub](https://github.com/CallMeAl3x/Newsletter)
+- Live Site URL: [Add live site URL here](https://newsletter-b-alexandre.netlify.app)
 
 ### Développé avec :
 
